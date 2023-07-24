@@ -3,7 +3,7 @@
 | Task        | Status   |  Date (Created)  |  Date (Deadline)   |
 | ------------- |:-------------:| -----:| --- |
 | Sending invitation letter to Shima (maybe through Samaneh) | ? | 21.07.2023 | ASAP |
-| Washing roo baleshi | done! | 21.07.2023 | ASAP |
+| Washing roo baleshi | done! | 21.07.2023 | 23.07.2023 |
 | Vaghte doctor e poost | ? | 21.07.2023 | ASAP |
 | Finishing the book angel's game | ? | 21.07.2023 | ASAP |
 | Chaspoondan e leise ha | ? | 21.07.2023 | ASAP |
