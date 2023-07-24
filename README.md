@@ -16,7 +16,8 @@
 | Tamir e mobile Motorla Jadid | ? | 24.07.2023 | ASAP |
 | Tamir e safhe kelaje mashin | ? | 24.07.2023 | ASAP |
 | Spanish language course? | ? | 24.07.2023 | ASAP |
-| Tamoom kardan e dastanam "do hafte" | ? | 24.07.2023 | ASAP | 
+| Tamoom kardan e dastanam "do hafte" | ? | 24.07.2023 | ASAP |
+| Paperi ke ba kanadaie darim anjam midim | ? | 24.07.2023 | ASAP |
 
 
 
