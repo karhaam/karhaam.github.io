@@ -8,7 +8,7 @@
 | Finishing the book angel's game | ? | 21.07.2023 | ASAP |
 | Chaspoondan e leise ha | ? | 21.07.2023 | ASAP |
 | Tamoom kardan range rahroo | ? | 21.07.2023 | ASAP |
-| Kharidan the shadows of the wind az Carlos Ruiz Zafon | ? | 21.07.2023 | ASAP |
+| Kharidan the shadows of the wind az Carlos Ruiz Zafon | done! | 21.07.2023 | 26.07.2023 |
 | Bilit e Safe House | ? | 21.07.2023 | ASAP |
 | Bilit e Safar be Espania | done! | 22.07.2023 | 22.07.2023 |
 | Ejare e khune dar Malaga | ? | 23.07.2023 | ASAP |
