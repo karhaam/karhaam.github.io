@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Karhaam</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Book List</h2>
+        <input type="text" id="searchInput" onkeyup="searchFunction()" placeholder="Search for books..">
+        <table class="table table-striped table-bordered" id="bookTable">
+            <thead>
+                <tr>
+                    <th>Task</th>
+                    <th>Status</th>
+                    <th>Date(created)</th>
+                    <th>Date(done)</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        var sortAscending = true;
+        var table = d3.select('#bookTable');
+        var tbody = table.select('tbody');
+        var columns = ["Task", "Status", "Date(created)", "Date(done)"];
+
+        d3.csv("data.csv").then(function(data) {
+            data.forEach(function(d) {
+                var row = tbody.append("tr");
+                columns.forEach(function(column) {
+                    row.append("td").text(d[column]);
+                });
+            });
+
+            table.selectAll('th')
+                .on('click', function (d, i) {
+                    if (sortAscending) {
+                        rows.sort(function(a, b) { return d3.ascending(a[columns[i]], b[columns[i]]); });
+                        sortAscending = false;
+                    } else {
+                        rows.sort(function(a, b) { return d3.descending(a[columns[i]], b[columns[i]]); });
+                        sortAscending = true;
+                    }
+                });
+        });
+
+        function searchFunction() {
+            var input, filter, tr, td, i, txtValue;
+            input = document.getElementById("searchInput");
+            filter = input.value.toUpperCase();
+            tr = tbody.selectAll("tr");
+            tr.each(function() {
+                var row = d3.select(this);
+                td = row.selectAll("td").nodes();
+                var found = false;
+                td.forEach(function(cell) {
+                    txtValue = cell.textContent || cell.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        found = true;
+                    }
+                });
+                if (found) {
+                    row.style("display", "");
+                } else {
+                    row.style("display", "none");
+                }
+            });
+        }
+    </script>
+</body>
+</html>
