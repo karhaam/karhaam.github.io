@@ -1,6 +1,6 @@
 # My Tasks
 
-| Task        | Status   |  Date (Created)  |  Date (Deadline)   |
+| Task        | Status   |  Date (Created)  |  Date (Done!)   |
 | ------------- |:-------------:| -----:| --- |
 | Sending invitation letter to Shima (maybe through Samaneh) | ? | 21.07.2023 | ASAP |
 | Washing roo baleshi | done! | 21.07.2023 | 23.07.2023 |
@@ -12,7 +12,7 @@
 | Bilit e Safe House | ? | 21.07.2023 | ASAP |
 | Bilit e Safar be Espania | done! | 22.07.2023 | 22.07.2023 |
 | Ejare e khune dar Malaga | ? | 23.07.2023 | ASAP |
-| Tamir e mobile Motorla Ghadimi | ? | 24.07.2023 | ASAP |
+| Tamir e mobile Motorla Ghadimi | done! | 24.07.2023 | 26.07.2023 |
 | Tamir e mobile Motorla Jadid | ? | 24.07.2023 | ASAP |
 | Tamir e safhe kelaje mashin | ? | 24.07.2023 | ASAP |
 | Spanish language course? | ? | 24.07.2023 | ASAP |
