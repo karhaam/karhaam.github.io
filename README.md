@@ -19,6 +19,7 @@
 | Tamoom kardan e dastanam "do hafte" | ? | 24.07.2023 | ASAP |
 | Paperi ke ba kanadaie darim anjam midim | ? | 24.07.2023 | ASAP |
 | Kharjhaye Khune baraye 2023 | ? | 26.07.2023 | ASAP |
+| avaz kardan email check24 | ? | 01.08.2023 | ASAP |
 
 
 
