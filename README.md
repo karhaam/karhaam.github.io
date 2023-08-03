@@ -5,7 +5,7 @@
 | Sending invitation letter to Shima (maybe through Samaneh) | ? | 21.07.2023 | ASAP |
 | Washing roo baleshi | done! | 21.07.2023 | 23.07.2023 |
 | Vaghte doctor e poost | ? | 21.07.2023 | ASAP |
-| Finishing the book angel's game | finished | 21.07.2023 | 26.07.2023 |
+| Finishing the book angel's game | done! | 21.07.2023 | 26.07.2023 |
 | Chaspoondan e leise ha | ? | 21.07.2023 | ASAP |
 | Tamoom kardan range rahroo | ? | 21.07.2023 | ASAP |
 | Kharidan the shadows of the wind az Carlos Ruiz Zafon | done! | 21.07.2023 | 26.07.2023 |
@@ -20,6 +20,7 @@
 | Paperi ke ba kanadaie darim anjam midim | ? | 24.07.2023 | ASAP |
 | Kharjhaye Khune baraye 2023 | ? | 26.07.2023 | ASAP |
 | avaz kardan email check24 | ? | 01.08.2023 | ASAP |
+| Tamoom kardan e the shadow of the wind | ? | 03.04.2023 | ASAP |
 
 
 
